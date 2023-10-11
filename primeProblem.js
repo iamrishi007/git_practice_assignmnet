@@ -6,7 +6,7 @@ function checkPrime(N) {
                     }
           }
 
-          if (count == 1) {
+          if (count == 2) {
                     console.log(N, "is Prime")
           }
           else {
